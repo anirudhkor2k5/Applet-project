@@ -8,16 +8,13 @@
 
 ##### Members - 
 
-1. [Pradeep Gangwar](https://github.com/pradeepgangwar)
-2. Ripuvendra Singh
-3. [Sashank Mishra](https://github.com/sashank27)
-4. [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
-5. [Siddharth Simharaju](https://github.com/TheDevastator)
+1. Anirudh Korturti
+2. Aryan Raj
 ___
 
 #### Introduction:
 
-The project asks us to show communication between two applets. An applet is a program that works on a web page using HTML link.
+The project asks us to show communication between two applets. An applet is a program that works on a web page using HTML link. I made this as a part of OOM Mini Project!
 ___
 
 #### Motivation:
@@ -46,6 +43,5 @@ ___
 4. Transition of shapes start in the second applet, which shows three shapes, Rectangle, Triangle and Circle, in an interval of 1 second.
 5. Press ‘Stop’ button in first applet to stop the transition in the second applet.
 
-[Presentation Link](https://prezi.com/p/jnhhkln9szxg/)
 
 ---
